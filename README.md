@@ -86,4 +86,4 @@ This Python script utilizes the `requests`, `urllib.parse`, `BeautifulSoup`, and
 
 ```
 
-Feel free to modify and enhance the README based on your specific requirements and project details.
+Feel free to modify and enhance the code based on your specific requirements .
