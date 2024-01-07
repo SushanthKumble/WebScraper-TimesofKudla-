@@ -84,6 +84,6 @@ This Python script utilizes the `requests`, `urllib.parse`, `BeautifulSoup`, and
 - Ensure compliance with the website's terms of service and policies when scraping data.
 - Adjust the code to handle pagination if the website spans multiple pages.
 
-```
+````
 
 Feel free to modify and enhance the code based on your specific requirements .
